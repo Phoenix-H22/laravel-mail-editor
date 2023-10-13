@@ -1,15 +1,15 @@
 {
-    "name": "qoraiche/laravel-mail-editor",
+    "name": "Phoenix22H/laravel-mail-editor",
     "description": "Laravel Mailable Editor",
     "license": "MIT",
     "authors": [
         {
-            "name": "yassine qoraiche",
-            "email": "qoraicheofficiel@hotmail.com",
-            "homepage": "https://github.com/qoraiche"
+            "name": "Abdalrhman Alkady",
+            "email": "alkady2019@gmail.com",
+            "homepage": "https://github.com/Phoenix-H22"
         }
     ],
-    "homepage": "https://github.com/Qoraiche/laravel-mail-editor",
+    "homepage": "https://github.com/Phoenix-H22/laravel-mail-editor",
     "keywords": [
         "Laravel",
         "mailEclipse",
@@ -32,21 +32,21 @@
     },
     "autoload": {
         "psr-4": {
-            "Qoraiche\\MailEclipse\\": "src/"
+            "Phoenix22H\\MailEclipse\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Qoraiche\\MailEclipse\\Tests\\": "tests"
+            "Phoenix22H\\MailEclipse\\Tests\\": "tests"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Qoraiche\\MailEclipse\\MailEclipseServiceProvider"
+                "Phoenix22H\\MailEclipse\\MailEclipseServiceProvider"
             ],
             "aliases": {
-                "MailEclipse": "Qoraiche\\MailEclipse\\Facades\\MailEclipse"
+                "MailEclipse": "Phoenix22H\\MailEclipse\\Facades\\MailEclipse"
             }
         }
     }

@@ -11,7 +11,7 @@
     "bootstrap",
     "themes"
   ],
-  "author": "Yassine Qoraiche",
+  "author": "Abdalrhman Alkady",
   "license": "MIT",
   "dependencies": {
     "bootstrap": "^4.2.1",

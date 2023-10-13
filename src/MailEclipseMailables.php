@@ -1,9 +1,9 @@
 <?php
 
-namespace Qoraiche\MailEclipse;
+namespace Phoenix22H\MailEclipse;
 
 use Illuminate\Support\Facades\View;
-use Qoraiche\MailEclipse\Facades\MailEclipse;
+use Phoenix22H\MailEclipse\Facades\MailEclipse;
 use RecursiveDirectoryIterator;
 use RecursiveIteratorIterator;
 use ReflectionClass;

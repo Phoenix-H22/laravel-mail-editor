@@ -1,10 +1,10 @@
 <?php
 
-namespace Qoraiche\MailEclipse\Actions;
+namespace Phoenix22H\MailEclipse\Actions;
 
 use Illuminate\Support\Facades\Artisan;
 use Illuminate\Support\Str;
-use Qoraiche\MailEclipse\Facades\MailEclipse;
+use Phoenix22H\MailEclipse\Facades\MailEclipse;
 
 class CreateMailable
 {

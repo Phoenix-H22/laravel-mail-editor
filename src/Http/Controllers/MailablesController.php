@@ -1,12 +1,12 @@
 <?php
 
-namespace Qoraiche\MailEclipse\Http\Controllers;
+namespace Phoenix22H\MailEclipse\Http\Controllers;
 
 use Illuminate\Http\Request;
 use Illuminate\Routing\Controller;
 use Illuminate\Support\Facades\App;
 use Illuminate\Support\Facades\File;
-use Qoraiche\MailEclipse\Facades\MailEclipse;
+use Phoenix22H\MailEclipse\Facades\MailEclipse;
 
 class MailablesController extends Controller
 {

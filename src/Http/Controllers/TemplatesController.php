@@ -1,13 +1,13 @@
 <?php
 
-namespace Qoraiche\MailEclipse\Http\Controllers;
+namespace Phoenix22H\MailEclipse\Http\Controllers;
 
 use Illuminate\Http\Request;
 use Illuminate\Routing\Controller;
 use Illuminate\Support\Facades\App;
 use Illuminate\Support\Facades\File;
-use Qoraiche\MailEclipse\Facades\MailEclipse;
-use Qoraiche\MailEclipse\Utils\TemplateSkeletons;
+use Phoenix22H\MailEclipse\Facades\MailEclipse;
+use Phoenix22H\MailEclipse\Utils\TemplateSkeletons;
 
 class TemplatesController extends Controller
 {
