@@ -1,9 +1,9 @@
 <?php
 
-namespace Phoenix22H\MailEclipse\Facades;
+namespace phoenix22h\MailEclipse\Facades;
 
 use Illuminate\Support\Facades\Facade;
-use Phoenix22H\MailEclipse\MailEclipse as MailEclipseParent;
+use phoenix22h\MailEclipse\MailEclipse as MailEclipseParent;
 
 /**
  * @method static \Illuminate\Support\Collection getMailables()
@@ -25,7 +25,7 @@ use Phoenix22H\MailEclipse\MailEclipse as MailEclipseParent;
  * @method static void|string renderPreview($simpleview, $view, $template = false, $instance = null)
  * @method static void sendTest(string $name, string $recipient)
  *
- * @see \Phoenix22H\MailEclipse\MailEclipse
+ * @see \phoenix22h\MailEclipse\MailEclipse
  */
 class MailEclipse extends Facade
 {

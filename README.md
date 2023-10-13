@@ -7,8 +7,8 @@
 </h2>
 
 <p align="center">
-<a href="https://packagist.org/packages/Phoenix22H/laravel-mail-editor" alt="sponsors on Open Collective"><img src="https://poser.pugx.org/Phoenix22H/laravel-mail-editor/v/stable" /></a> <a href="https://packagist.org/packages/Phoenix22H/laravel-mail-editor" alt="Sponsors on Open Collective"><img src="https://poser.pugx.org/Phoenix22H/laravel-mail-editor/license" /></a> 
-<a href="https://packagist.org/packages/Phoenix22H/laravel-mail-editor" alt="Sponsors on Open Collective"><img src="https://poser.pugx.org/Phoenix22H/laravel-mail-editor/downloads" /></a> 
+<a href="https://packagist.org/packages/phoenix22h/laravel-mail-editor" alt="sponsors on Open Collective"><img src="https://poser.pugx.org/phoenix22h/laravel-mail-editor/v/stable" /></a> <a href="https://packagist.org/packages/phoenix22h/laravel-mail-editor" alt="Sponsors on Open Collective"><img src="https://poser.pugx.org/phoenix22h/laravel-mail-editor/license" /></a> 
+<a href="https://packagist.org/packages/phoenix22h/laravel-mail-editor" alt="Sponsors on Open Collective"><img src="https://poser.pugx.org/phoenix22h/laravel-mail-editor/downloads" /></a> 
 </p>
 <br/><br/>
 
@@ -32,16 +32,16 @@ Please note that this package is still under active development. We encourage ev
 
 | Laravel Version | Compatible version |
 |-----------------|--------------------|
-| 9               | Latest - [v4.x](https://github.com/Phoenix22H/laravel-mail-editor/tree/v4.0.0)|
-| 8               | [v3.x](https://github.com/Phoenix22H/laravel-mail-editor/tree/3.x)               |
-| 5.6 -> 7        | [v2.x](https://github.com/Phoenix22H/laravel-mail-editor/tree/2.x)               |
+| 9               | Latest - [v4.x](https://github.com/phoenix22h/laravel-mail-editor/tree/v4.0.0)|
+| 8               | [v3.x](https://github.com/phoenix22h/laravel-mail-editor/tree/3.x)               |
+| 5.6 -> 7        | [v2.x](https://github.com/phoenix22h/laravel-mail-editor/tree/2.x)               |
 
 ## Installation
 
 Via Composer
 
 ``` bash
-$ composer require Phoenix22H/laravel-mail-editor
+$ composer require phoenix22h/laravel-mail-editor
 ```
 
 The package will automatically register itself.
@@ -75,7 +75,7 @@ Please see the [changelog](changelog.md) for more information on what has change
 
 ## Security
 
-If you discover any security related issues, please email author email [Phoenix22Hofficiel@hotmail.com](mailto:Phoenix22Hofficiel@hotmail.com) instead of using the issue tracker.
+If you discover any security related issues, please email author email [phoenix22hofficiel@hotmail.com](mailto:phoenix22hofficiel@hotmail.com) instead of using the issue tracker.
 
 ## License
 
@@ -99,7 +99,7 @@ __Contributions are welcome__
 
 ## Credits
 
-- [Yassine Phoenix22H](https://github.com/Phoenix22H)
+- [Yassine phoenix22h](https://github.com/phoenix22h)
 - [All Contributors](../../contributors)
 
 ## Donate :heart:

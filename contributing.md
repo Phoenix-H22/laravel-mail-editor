@@ -2,7 +2,7 @@
 
 Contributions are welcome and will be fully credited.
 
-Contributions are accepted via Pull Requests on [Github](https://github.com/Phoenix22H/laravel-mail-editor).
+Contributions are accepted via Pull Requests on [Github](https://github.com/phoenix22h/laravel-mail-editor).
 
 
 ## Pull Requests

@@ -1,12 +1,12 @@
 <?php
 
-namespace Phoenix22H\MailEclipse\Http\Controllers;
+namespace phoenix22h\MailEclipse\Http\Controllers;
 
 use Illuminate\Http\Request;
 use Illuminate\Routing\Controller;
 use Illuminate\Support\Facades\App;
 use Illuminate\Support\Facades\File;
-use Phoenix22H\MailEclipse\Facades\MailEclipse;
+use phoenix22h\MailEclipse\Facades\MailEclipse;
 
 class MailablesController extends Controller
 {

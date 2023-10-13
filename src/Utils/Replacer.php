@@ -1,6 +1,6 @@
 <?php
 
-namespace Phoenix22H\MailEclipse\Utils;
+namespace phoenix22h\MailEclipse\Utils;
 
 class Replacer
 {

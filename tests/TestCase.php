@@ -1,9 +1,9 @@
 <?php
 
-namespace Phoenix22H\MailEclipse\Tests;
+namespace phoenix22h\MailEclipse\Tests;
 
 use Orchestra\Testbench\TestCase as Orchestra;
-use Phoenix22H\MailEclipse\MailEclipseServiceProvider;
+use phoenix22h\MailEclipse\MailEclipseServiceProvider;
 
 class TestCase extends Orchestra
 {

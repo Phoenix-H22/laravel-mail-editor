@@ -1,5 +1,5 @@
 {
-    "name": "Phoenix22H/laravel-mail-editor",
+    "name": "phoenix22h/laravel-mail-editor",
     "description": "Laravel Mailable Editor",
     "license": "MIT",
     "authors": [
@@ -32,21 +32,21 @@
     },
     "autoload": {
         "psr-4": {
-            "Phoenix22H\\MailEclipse\\": "src/"
+            "phoenix22h\\MailEclipse\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Phoenix22H\\MailEclipse\\Tests\\": "tests"
+            "phoenix22h\\MailEclipse\\Tests\\": "tests"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Phoenix22H\\MailEclipse\\MailEclipseServiceProvider"
+                "phoenix22h\\MailEclipse\\MailEclipseServiceProvider"
             ],
             "aliases": {
-                "MailEclipse": "Phoenix22H\\MailEclipse\\Facades\\MailEclipse"
+                "MailEclipse": "phoenix22h\\MailEclipse\\Facades\\MailEclipse"
             }
         }
     }

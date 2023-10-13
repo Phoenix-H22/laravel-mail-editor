@@ -1,10 +1,10 @@
 <?php
 
-namespace Phoenix22H\MailEclipse;
+namespace phoenix22h\MailEclipse;
 
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\ServiceProvider;
-use Phoenix22H\MailEclipse\Command\VendorPublishCommand;
+use phoenix22h\MailEclipse\Command\VendorPublishCommand;
 
 class MailEclipseServiceProvider extends ServiceProvider
 {
@@ -47,7 +47,7 @@ class MailEclipseServiceProvider extends ServiceProvider
     private function routeConfiguration()
     {
         return [
-            'namespace' => 'Phoenix22H\MailEclipse\Http\Controllers',
+            'namespace' => 'phoenix22h\MailEclipse\Http\Controllers',
             'prefix' => config('maileclipse.path'),
             'middleware' => 'maileclipse',
         ];
