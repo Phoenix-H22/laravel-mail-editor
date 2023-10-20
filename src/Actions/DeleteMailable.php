@@ -1,6 +1,6 @@
 <?php
 
-namespace phoenix22h\MailEclipse\Actions;
+namespace Phoenix22h\MailEclipse\Actions;
 
 use Illuminate\Support\Facades\File;
 

@@ -1,9 +1,9 @@
 <?php
 
-namespace phoenix22h\MailEclipse\Http\Exceptions;
+namespace Phoenix22h\MailEclipse\Http\Exceptions;
 
 use Exception;
-use phoenix22h\MailEclipse\Facades\MailEclipse;
+use Phoenix22h\MailEclipse\Facades\MailEclipse;
 
 class PreviewErrorException extends Exception
 {

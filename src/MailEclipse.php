@@ -1,6 +1,6 @@
 <?php
 
-namespace phoenix22h\MailEclipse;
+namespace Phoenix22h\MailEclipse;
 
 use ErrorException;
 use Illuminate\Database\Eloquent\Factory as EloquentFactory;
@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\Log;
 use Illuminate\Support\Facades\Mail;
 use Illuminate\Support\Facades\View;
 use Illuminate\Support\Str;
-use phoenix22h\MailEclipse\Utils\Replacer;
+use Phoenix22h\MailEclipse\Utils\Replacer;
 use RecursiveDirectoryIterator;
 use RecursiveIteratorIterator;
 use ReeceM\Mocker\Mocked;

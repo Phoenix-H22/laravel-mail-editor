@@ -1,9 +1,9 @@
 <?php
 
-namespace phoenix22h\MailEclipse\Tests\Feature;
+namespace Phoenix22h\MailEclipse\Tests\Feature;
 
 use Illuminate\Support\Facades\Config;
-use phoenix22h\MailEclipse\Tests\TestCase;
+use Phoenix22h\MailEclipse\Tests\TestCase;
 
 class MailablesControllerTest extends TestCase
 {

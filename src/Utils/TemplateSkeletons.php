@@ -1,11 +1,11 @@
 <?php
 
-namespace phoenix22h\MailEclipse\Utils;
+namespace Phoenix22h\MailEclipse\Utils;
 
 use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\File;
 use Illuminate\Support\Facades\View;
-use phoenix22h\MailEclipse\MailEclipse;
+use Phoenix22h\MailEclipse\MailEclipse;
 
 class TemplateSkeletons
 {

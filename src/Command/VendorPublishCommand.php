@@ -1,6 +1,6 @@
 <?php
 
-namespace phoenix22h\MailEclipse\Command;
+namespace Phoenix22h\MailEclipse\Command;
 
 use Illuminate\Console\Command;
 
@@ -28,7 +28,7 @@ class VendorPublishCommand extends Command
     public function handle()
     {
         $this->call('vendor:publish', [
-            '--provider' => "phoenix22h\MailEclipse\MailEclipseServiceProvider",
+            '--provider' => "Phoenix22h\MailEclipse\MailEclipseServiceProvider",
         ]);
     }
 }
