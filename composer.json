@@ -33,21 +33,21 @@
     },
     "autoload": {
         "psr-4": {
-            "phoenix22h\\MailEclipse\\": "src/"
+            "Phoenix22h\\MailEclipse\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "phoenix22h\\MailEclipse\\Tests\\": "tests"
+            "Phoenix22h\\MailEclipse\\Tests\\": "tests"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "phoenix22h\\MailEclipse\\MailEclipseServiceProvider"
+                "Phoenix22h\\MailEclipse\\MailEclipseServiceProvider"
             ],
             "aliases": {
-                "MailEclipse": "phoenix22h\\MailEclipse\\Facades\\MailEclipse"
+                "MailEclipse": "Phoenix22h\\MailEclipse\\Facades\\MailEclipse"
             }
         }
     }
